@@ -1,0 +1,14 @@
+body{
+    background-color: #F3E9DD;
+    color:#F10086;
+    font-family: 'Roboto', sans-serif;
+}
+
+.imag{
+    width:20%;
+    border-radius: 50%;
+}
+
+li {
+    list-style-image: url(http://upload.wikimedia.org/wikipedia/commons/6/61/Icons-mini-icon_security.gif);
+  }
